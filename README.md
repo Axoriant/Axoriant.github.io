@@ -1,1 +1,1 @@
-[ссылка].(https://Axoriant.github.io).
+[ссылка](https://Axoriant.github.io)
